@@ -1,0 +1,2 @@
+﻿I am in Document 2 with some text
+This is another line in -Document-2

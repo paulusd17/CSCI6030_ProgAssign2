@@ -1,0 +1,2 @@
+﻿This is a test of line 1
+This is a test of line 2 with (punctuation AND !@#$%^&*())
